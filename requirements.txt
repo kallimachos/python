@@ -1,0 +1,11 @@
+bashate
+bs4
+colorlog
+doc8
+GitPython
+pyenchant
+requests
+sphinx
+sphinxcontrib-spelling
+sphinx_rtd_theme
+tabulate

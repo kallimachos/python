@@ -1,0 +1,13 @@
+_build/
+*.key
+*.log
+*.pyc
+__pycache__
+.cache
+.tox
+.coverage
+MANIFEST
+keys/
+mailchimp.csv
+tidyhq.csv
+result.csv
